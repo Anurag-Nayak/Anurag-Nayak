@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anurag-Nayak
 - 👀 I’m interested in Web Dev, Google Cloud Platform, AI/ML, Flutter
 - 🌱 I’m currently learning Web Dev and Flutter
+-    A Cricket lover
 
 
 <!---
